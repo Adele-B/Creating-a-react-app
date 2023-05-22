@@ -1,0 +1,6 @@
+node_modules/**
+kube/**
+coverage/**
+dist/**
+setupTests.js
+/src/utils/DownloadFile.js
